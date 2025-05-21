@@ -78,7 +78,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://images.app.goo.gl/3YAnsbgNqmWZi3Lj7');
+    background-image: url('https://raw.githubusercontent.com/HassanRajput0/Video/main/lv_0_20241003034048.mp4');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
