@@ -78,7 +78,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://pin.it/CYCk5NyVL');
+    background-image: url('https://i.imgur.com/92rqE1X.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
