@@ -162,7 +162,7 @@ body{
     </form>
   </div>
   <footer class="footer">
-    <p>&copy;🆁🅾︎🅽🅸 🆇 🆈🆄🆅🅸 🅷🆄🅼 🅳🅾︎ 🅱︎🅷🅰︎🅸 🅳🅾︎🅽🅾︎ 🆃🅰︎🅱︎🅰︎🅷🅸 🅷🅰︎🆃🅴🆁🆂 🅺 🅹🅸🅹🆄 🅸🅽🆂🅸🅳🅴   </p>
+    <p>&copy; 🆃🅰🆃🆃🅾 🅺🅸 🅼🅰 🅲🅷🅾🅽🅳🅴 🆅🅰🅰🅻🅰 🅴🅽🆃🅴🆁</</p>
     <p><a href=""https://www.facebook.com/yuvi001x>ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+91 860 7715179" class="whatsapp-link">
