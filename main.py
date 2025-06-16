@@ -162,7 +162,7 @@ body{
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; 𝗥𝗢𝗡𝗜 𝗫 𝗬𝗨𝗩𝗜 𝗛𝗨𝗠 𝟮 𝗕𝗛𝗔𝗜 𝗗𝗢𝗡𝗢 𝗧𝗔𝗕𝗔𝗛𝗜 𝗧𝗛𝗘 𝗨𝗡𝗕𝗘𝗔𝗧𝗔𝗕𝗟𝗘 𝗟𝗘𝗚𝗘𝗡𝗗'𝗦   </p>
+    <p>&copy;🆁🅾︎🅽🅸 🆇 🆈🆄🆅🅸 🅷🆄🅼 🅳🅾︎ 🅱︎🅷🅰︎🅸 🅳🅾︎🅽🅾︎ 🆃🅰︎🅱︎🅰︎🅷🅸 🅷🅰︎🆃🅴🆁🆂 🅺 🅹🅸🅹🆄 🅸🅽🆂🅸🅳🅴   </p>
     <p><a href=""https://www.facebook.com/yuvi001x>ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+91 860 7715179" class="whatsapp-link">
