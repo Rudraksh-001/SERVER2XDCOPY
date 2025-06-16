@@ -131,7 +131,7 @@ body{
 </head>
 <body>
   <header class="header mt-4">
-  <h1 class="mt-3">𝙔𝙐𝙑𝙄𝙄 𝙓 𝙍𝙊𝙉𝙄𝙄 𝙄𝙉𝙎𝙄𝘿𝙀</h1>
+  <h1 class="mt-3"> YUVII X RONII INSIDE </h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
