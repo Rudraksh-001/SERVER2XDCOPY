@@ -78,7 +78,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.imgur.com/92rqE1X.jpeg');
+    background-image: url('https://i.postimg.cc/SRy3bysS/IMG-20250617-WA0131.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
