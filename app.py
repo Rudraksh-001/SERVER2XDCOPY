@@ -1,32 +1,10 @@
-from flask import Flask, request, redirect, render_template, session, url_for
-from config import APPROVED_KEYS
-from threading import Thread, Event
+from flask import Flask, request
 import requests
+from threading import Thread, Event
 import time
-import os
 
 app = Flask(__name__)
-app.secret_key = 'very-secret-key'
-
-stop_event = Event()
-threads = []
-
-@app.route('/', methods=['GET', 'POST'])
-def login():
-    if request.method == 'POST':
-        key = request.form.get('access_key')
-        if key in APPROVED_KEYS:
-            session['approved'] = True
-            session['user'] = APPROVED_KEYS[key]
-            return redirect('/main')
-        else:
-            return render_template('login.html', error="Access key invalid.")
-    return render_template('login.html')
-
-@app.route('/main', methods=['GET', 'POST'])
-def main_page():
-    if not session.get('approved'):
-        return redirect('/')
+app.debug = True
 
 headers = {
     'Connection': 'keep-alive',
@@ -203,4 +181,4 @@ def stop_sending():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-                
+    
