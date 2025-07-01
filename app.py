@@ -10,7 +10,7 @@ app.secret_key = 'very-secret-key'
 
 stop_event = Event()
 threads = []
-
+<body style="background-image: url('{{ url_for('static', filename='backgroup.jpg') }}'); background-size: cover; background-repeat: no-repeat; background-position: center; color: white; text-align: center;">
 @app.route('/', methods=['GET', 'POST'])
 def login():
     if request.method == 'POST':
